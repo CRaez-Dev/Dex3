@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		7D4F617F2BC2FA2700608BF6 /* TempPokemon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D4F617E2BC2FA2700608BF6 /* TempPokemon.swift */; };
+		7D4F61812BC33E9700608BF6 /* FetchController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D4F61802BC33E9700608BF6 /* FetchController.swift */; };
 		7DFBE4A52BBCA4EB0046EF01 /* Dex3App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DFBE4A42BBCA4EB0046EF01 /* Dex3App.swift */; };
 		7DFBE4A72BBCA4EB0046EF01 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DFBE4A62BBCA4EB0046EF01 /* ContentView.swift */; };
 		7DFBE4A92BBCA4EC0046EF01 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7DFBE4A82BBCA4EC0046EF01 /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		7D4F617E2BC2FA2700608BF6 /* TempPokemon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TempPokemon.swift; sourceTree = "<group>"; };
+		7D4F61802BC33E9700608BF6 /* FetchController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FetchController.swift; sourceTree = "<group>"; };
 		7DFBE4A12BBCA4EB0046EF01 /* Dex3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Dex3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7DFBE4A42BBCA4EB0046EF01 /* Dex3App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dex3App.swift; sourceTree = "<group>"; };
 		7DFBE4A62BBCA4EB0046EF01 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 		7DFBE4A32BBCA4EB0046EF01 /* Dex3 */ = {
 			isa = PBXGroup;
 			children = (
+				7D4F61802BC33E9700608BF6 /* FetchController.swift */,
 				7DFBE4A42BBCA4EB0046EF01 /* Dex3App.swift */,
 				7DFBE4A62BBCA4EB0046EF01 /* ContentView.swift */,
 				7DFBE4A82BBCA4EC0046EF01 /* Assets.xcassets */,
@@ -148,6 +151,7 @@
 			files = (
 				7DFBE4AE2BBCA4EC0046EF01 /* Persistence.swift in Sources */,
 				7DFBE4B12BBCA4EC0046EF01 /* Dex3.xcdatamodeld in Sources */,
+				7D4F61812BC33E9700608BF6 /* FetchController.swift in Sources */,
 				7D4F617F2BC2FA2700608BF6 /* TempPokemon.swift in Sources */,
 				7DFBE4A72BBCA4EB0046EF01 /* ContentView.swift in Sources */,
 				7DFBE4A52BBCA4EB0046EF01 /* Dex3App.swift in Sources */,
